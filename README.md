@@ -2,7 +2,7 @@
 
 A machine learning app that classifies SMS messages as Spam or Not Spam (Ham) using NLP and a Naive Bayes classifier. Built for the AIC2022 course assignment.
 
-**Live demo:** https://spam_checker(ham means harmless).streamlit.app
+**Live demo:** https://spam-detector-project-ai.streamlit.app/
 
 ## Features
 - Classifies a message as Spam or Not Spam
