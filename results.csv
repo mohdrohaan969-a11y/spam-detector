@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1
+Naive Bayes (default),0.9662,0.9898,0.7405,0.8472
+Naive Bayes (alpha=0.1),0.9816,0.9667,0.8855,0.9243
+Logistic Reg. (default),0.9603,0.9891,0.6947,0.8161
+Logistic Reg. (balanced),0.9758,0.9206,0.8855,0.9027
